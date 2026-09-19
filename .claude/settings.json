@@ -1,7 +1,7 @@
 {
   "pluginConfigs": {
     "agents-md@builtin": {
-      "options": { "instructionFiles": "claude-md-and-agents-md" }
+      "options": { "instructionFiles": "claude-md-or-agents-md" }
     }
   }
 }
